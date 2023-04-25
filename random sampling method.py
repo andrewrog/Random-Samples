@@ -29,4 +29,4 @@ number_food_per = number_food / 100
 number_non_food_per = number_non_food / 100
 
 print(f"In the random sample of 100 folks, {number_food_per} had food assistance and {number_non_food_per} had no food assistance")
-
+#In the random sample of 100 folks, 0.85 had food assistance and 0.15 had no food assistance
